@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="attendanceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="emp">
+    <Key>
+      <PropertyRef Name="pin" />
+    </Key>
+    <Property Name="pin" Type="int" Nullable="false" />
+    <Property Name="EmployeeName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="personal_schedule">
+    <Key>
+      <PropertyRef Name="PersinalScheduleID" />
+    </Key>
+    <Property Name="PersinalScheduleID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pin" Type="int" Nullable="false" />
+    <Property Name="schedule_id" Type="int" Nullable="false" />
+    <Property Name="ScheduleStart" Type="datetime" Nullable="false" />
+    <Property Name="SheduleEnd" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="schedule_info">
+    <Key>
+      <PropertyRef Name="schedule_id" />
+    </Key>
+    <Property Name="schedule_id" Type="int" Nullable="false" />
+    <Property Name="Schedule_name" Type="char" MaxLength="20" />
+    <Property Name="start_time" Type="datetime" Nullable="false" />
+    <Property Name="end_time" Type="datetime" Nullable="false" />
+    <Property Name="start_bf" Type="float" Nullable="false" />
+    <Property Name="start_af" Type="float" />
+    <Property Name="end_bf" Type="float" />
+    <Property Name="end_af" Type="float" />
+  </EntityType>
+  <EntityType Name="signature">
+    <Key>
+      <PropertyRef Name="pin" />
+    </Key>
+    <Property Name="pin" Type="int" Nullable="false" />
+    <Property Name="punch_date" Type="date" Nullable="false" />
+    <Property Name="punch_time" Type="int" />
+  </EntityType>
+  <EntityContainer Name="attendanceModelStoreContainer">
+    <EntitySet Name="emp" EntityType="Self.emp" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="personal_schedule" EntityType="Self.personal_schedule" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="schedule_info" EntityType="Self.schedule_info" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="signature" EntityType="Self.signature" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+  </EntityContainer>
+</Schema>

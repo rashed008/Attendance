@@ -1,0 +1,74 @@
+﻿@model attendance.Models.schedule_info
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>schedule_info</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Schedule_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Schedule_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.start_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.start_time)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.end_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.end_time)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.start_bf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.start_bf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.start_af)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.start_af)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.end_bf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.end_bf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.end_af)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.end_af)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-primary"> @Html.ActionLink("Edit", "Edit", new { id = Model.schedule_id },new { style = "color:white" }) </button>
+    <button class="btn btn-primary">  @Html.ActionLink("Back to List", "Index",null,  new { style = "color:white" }) </button>
+</p>

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<attendance.Models.emp>
+
+@{
+    ViewBag.Title = "Employee";
+}
+
+<h2>Employee Info</h2>
+
+<button type="button" class="btn btn-primary">
+    @Html.ActionLink("Create New", "Create" , null, new { style = "color:white" })
+</button>
+<br />
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th> Action</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            <button class="btn btn-success">
+            @Html.ActionLink("Edit", "Edit", new { id=item.pin, style = "color:white" }, new { style = "color:white" }) 
+            </button>
+            <button class="btn btn-warning">
+                @Html.ActionLink("Details", "Details" , new { id = item.pin, style = "color:white" }, new { style = "color:white" })
+            </button>
+            <button  type="button" class="btn btn-danger">
+                @Html.ActionLink("Delete", "Delete", new { id = item.pin }, new { style = "color:white" })
+            </button>
+</td>
+    </tr>
+}
+
+</table>

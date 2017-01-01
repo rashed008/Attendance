@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="attendanceModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="personal_schedule">
+    <Key>
+      <PropertyRef Name="PersinalScheduleID" />
+    </Key>
+    <Property Name="PersinalScheduleID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pin" Type="Int32" Nullable="false" />
+    <Property Name="schedule_id" Type="Int32" Nullable="false" />
+    <Property Name="ScheduleStart" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="SheduleEnd" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="signature">
+    <Key>
+      <PropertyRef Name="pin" />
+    </Key>
+    <Property Name="pin" Type="Int32" Nullable="false" />
+    <Property Name="punch_date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="punch_time" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="PIN" />
+      <PropertyRef Name="EmployeeName" />
+      <PropertyRef Name="Description" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PIN" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="schedule_info">
+    <Key>
+      <PropertyRef Name="schedule_id" />
+      <PropertyRef Name="start_time" />
+      <PropertyRef Name="end_time" />
+      <PropertyRef Name="start_bf" />
+    </Key>
+    <Property Name="schedule_id" Type="Int32" Nullable="false" />
+    <Property Name="Schedule_name" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="start_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="end_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="start_bf" Type="Double" Nullable="false" />
+    <Property Name="start_af" Type="Double" />
+    <Property Name="end_bf" Type="Double" />
+    <Property Name="end_af" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="attendanceEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="personal_schedule" EntityType="Self.personal_schedule" />
+    <EntitySet Name="signatures" EntityType="Self.signature" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="schedule_info" EntityType="Self.schedule_info" />
+  </EntityContainer>
+</Schema>

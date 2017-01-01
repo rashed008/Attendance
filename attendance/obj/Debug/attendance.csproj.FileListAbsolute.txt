@@ -1,0 +1,410 @@
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\ApplicationInsights.config
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\csc.exe
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\System.Collections.Immutable.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\vbc.exe
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\VBCSCompiler.exe
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\roslyn\VBCSCompiler.exe.config
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\attendance.dll.config
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\attendance.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\attendance.pdb
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Antlr3.Runtime.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\EntityFramework.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\EntityFramework.SqlServer.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.Web.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.WindowsServer.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.ApplicationInsights.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Google.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Web.Infrastructure.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Newtonsoft.Json.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Owin.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Helpers.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Mvc.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Optimization.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Razor.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.WebPages.Deployment.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.WebPages.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.WebPages.Razor.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\WebGrease.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.Web.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AI.WindowsServer.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.ApplicationInsights.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Helpers.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Mvc.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Optimization.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.Razor.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.WebPages.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.WebPages.Deployment.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\System.Web.WebPages.Razor.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Antlr3.Runtime.pdb
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Newtonsoft.Json.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\EntityFramework.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\EntityFramework.SqlServer.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Google.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\obj\Debug\attendance.dll
+c:\users\itlink-user01\documents\visual studio 2015\Projects\attendance\attendance\obj\Debug\attendance.pdb
+C:\Users\ITLink-User01\documents\visual studio 2015\Projects\attendance\attendance\obj\Debug\attendance.csprojResolveAssemblyReference.cache
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\ApplicationInsights.config
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\csc.exe
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\vbc.exe
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\attendance.dll.config
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\attendance.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\attendance.pdb
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Antlr3.Runtime.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\EntityFramework.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\EntityFramework.SqlServer.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.Web.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Newtonsoft.Json.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Owin.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Helpers.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Mvc.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Optimization.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Razor.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\WebGrease.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.Web.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Helpers.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Mvc.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Optimization.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.Razor.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Antlr3.Runtime.pdb
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Newtonsoft.Json.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\EntityFramework.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\EntityFramework.SqlServer.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\obj\Debug\attendance.csprojResolveAssemblyReference.cache
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\obj\Debug\attendance.dll
+C:\Users\ITLink-User01\Desktop\Low gan\attendance\attendance\obj\Debug\attendance.pdb
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\ApplicationInsights.config
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\csc.exe
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\vbc.exe
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\attendance.dll.config
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\attendance.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\attendance.pdb
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Antlr3.Runtime.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\EntityFramework.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\EntityFramework.SqlServer.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.Web.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Newtonsoft.Json.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Owin.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Helpers.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Mvc.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Optimization.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Razor.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.WebPages.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\WebGrease.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.Web.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Helpers.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Mvc.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Optimization.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.Razor.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.WebPages.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Antlr3.Runtime.pdb
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Newtonsoft.Json.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\EntityFramework.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\EntityFramework.SqlServer.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\obj\Debug\attendance.dll
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\obj\Debug\attendance.pdb
+C:\Users\ITLink-User01\Documents\Visual Studio 2015\Projects\Low gan\attendance\attendance\obj\Debug\attendance.csprojResolveAssemblyReference.cache
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\ApplicationInsights.config
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\csc.exe
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\vbc.exe
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\VBCSCompiler.exe
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\attendance.dll.config
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\attendance.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\attendance.pdb
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Antlr3.Runtime.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\EntityFramework.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\EntityFramework.SqlServer.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.Web.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Newtonsoft.Json.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Owin.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Helpers.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Mvc.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Optimization.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Razor.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Razor.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\WebGrease.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.Web.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Helpers.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Mvc.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Optimization.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.Razor.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\System.Web.WebPages.Razor.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Antlr3.Runtime.pdb
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Newtonsoft.Json.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\EntityFramework.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\EntityFramework.SqlServer.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\obj\Debug\attendance.dll
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\obj\Debug\attendance.pdb
+C:\Users\IT Link Corporation\Desktop\Low gan\attendance\attendance\obj\Debug\attendance.csprojResolveAssemblyReference.cache
+D:\rashed_asp.net\attendance\attendance\bin\ApplicationInsights.config
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\csc.exe
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\System.Collections.Immutable.dll
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\System.Reflection.Metadata.dll
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\vbc.exe
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\VBCSCompiler.exe
+D:\rashed_asp.net\attendance\attendance\bin\roslyn\VBCSCompiler.exe.config
+D:\rashed_asp.net\attendance\attendance\bin\attendance.dll.config
+D:\rashed_asp.net\attendance\attendance\bin\attendance.dll
+D:\rashed_asp.net\attendance\attendance\bin\attendance.pdb
+D:\rashed_asp.net\attendance\attendance\bin\Antlr3.Runtime.dll
+D:\rashed_asp.net\attendance\attendance\bin\EntityFramework.dll
+D:\rashed_asp.net\attendance\attendance\bin\EntityFramework.SqlServer.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.Agent.Intercept.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.DependencyCollector.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.Web.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.WindowsServer.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.ApplicationInsights.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Google.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Web.Infrastructure.dll
+D:\rashed_asp.net\attendance\attendance\bin\Newtonsoft.Json.dll
+D:\rashed_asp.net\attendance\attendance\bin\Owin.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Helpers.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Mvc.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Optimization.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Razor.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.WebPages.Deployment.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.WebPages.dll
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.WebPages.Razor.dll
+D:\rashed_asp.net\attendance\attendance\bin\WebGrease.dll
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.DependencyCollector.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.Web.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AI.WindowsServer.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.ApplicationInsights.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Helpers.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Mvc.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Optimization.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.Razor.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.WebPages.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.WebPages.Deployment.xml
+D:\rashed_asp.net\attendance\attendance\bin\System.Web.WebPages.Razor.xml
+D:\rashed_asp.net\attendance\attendance\bin\Antlr3.Runtime.pdb
+D:\rashed_asp.net\attendance\attendance\bin\Newtonsoft.Json.xml
+D:\rashed_asp.net\attendance\attendance\bin\EntityFramework.xml
+D:\rashed_asp.net\attendance\attendance\bin\EntityFramework.SqlServer.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AspNet.Identity.Core.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Facebook.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Cookies.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.OAuth.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Google.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.Twitter.xml
+D:\rashed_asp.net\attendance\attendance\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\rashed_asp.net\attendance\attendance\obj\Debug\attendance.csprojResolveAssemblyReference.cache
+D:\rashed_asp.net\attendance\attendance\obj\Debug\attendance.dll
+D:\rashed_asp.net\attendance\attendance\obj\Debug\attendance.pdb

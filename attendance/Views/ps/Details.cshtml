@@ -1,0 +1,54 @@
+﻿@model attendance.Models.personal_schedule
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>personal_schedule</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.pin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.schedule_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.schedule_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ScheduleStart)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ScheduleStart)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SheduleEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SheduleEnd)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-primary">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.PersinalScheduleID }, new { style = "color:white" })
+    </button>
+    <button class="btn btn-primary">
+        @Html.ActionLink("Back to List", "Index", null, new { style = "color:white" })
+    </button>
+</p>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="attendanceModelStoreContainer" CdmEntityContainer="attendanceEntities2">
+    <EntitySetMapping Name="personal_schedule">
+      <EntityTypeMapping TypeName="attendanceModel.personal_schedule">
+        <MappingFragment StoreEntitySet="personal_schedule">
+          <ScalarProperty Name="PersinalScheduleID" ColumnName="PersinalScheduleID" />
+          <ScalarProperty Name="pin" ColumnName="pin" />
+          <ScalarProperty Name="schedule_id" ColumnName="schedule_id" />
+          <ScalarProperty Name="ScheduleStart" ColumnName="ScheduleStart" />
+          <ScalarProperty Name="SheduleEnd" ColumnName="SheduleEnd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="signatures">
+      <EntityTypeMapping TypeName="attendanceModel.signature">
+        <MappingFragment StoreEntitySet="signature">
+          <ScalarProperty Name="pin" ColumnName="pin" />
+          <ScalarProperty Name="punch_date" ColumnName="punch_date" />
+          <ScalarProperty Name="punch_time" ColumnName="punch_time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="attendanceModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="PIN" ColumnName="PIN" />
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="schedule_info">
+      <EntityTypeMapping TypeName="attendanceModel.schedule_info">
+        <MappingFragment StoreEntitySet="schedule_info">
+          <ScalarProperty Name="schedule_id" ColumnName="schedule_id" />
+          <ScalarProperty Name="Schedule_name" ColumnName="Schedule_name" />
+          <ScalarProperty Name="start_time" ColumnName="start_time" />
+          <ScalarProperty Name="end_time" ColumnName="end_time" />
+          <ScalarProperty Name="start_bf" ColumnName="start_bf" />
+          <ScalarProperty Name="start_af" ColumnName="start_af" />
+          <ScalarProperty Name="end_bf" ColumnName="end_bf" />
+          <ScalarProperty Name="end_af" ColumnName="end_af" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="attendanceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'attendance.dbo.Employee' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="PIN" />
+      <PropertyRef Name="EmployeeName" />
+      <PropertyRef Name="Description" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PIN" Type="int" Nullable="false" />
+    <Property Name="EmployeeName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="personal_schedule">
+    <Key>
+      <PropertyRef Name="PersinalScheduleID" />
+    </Key>
+    <Property Name="PersinalScheduleID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pin" Type="int" Nullable="false" />
+    <Property Name="schedule_id" Type="int" Nullable="false" />
+    <Property Name="ScheduleStart" Type="datetime" Nullable="false" />
+    <Property Name="SheduleEnd" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'attendance.dbo.schedule_info' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="schedule_info">
+    <Key>
+      <PropertyRef Name="schedule_id" />
+      <PropertyRef Name="start_time" />
+      <PropertyRef Name="end_time" />
+      <PropertyRef Name="start_bf" />
+    </Key>
+    <Property Name="schedule_id" Type="int" Nullable="false" />
+    <Property Name="Schedule_name" Type="char" MaxLength="20" />
+    <Property Name="start_time" Type="datetime" Nullable="false" />
+    <Property Name="end_time" Type="datetime" Nullable="false" />
+    <Property Name="start_bf" Type="float" Nullable="false" />
+    <Property Name="start_af" Type="float" />
+    <Property Name="end_bf" Type="float" />
+    <Property Name="end_af" Type="float" />
+  </EntityType>
+  <EntityType Name="signature">
+    <Key>
+      <PropertyRef Name="pin" />
+    </Key>
+    <Property Name="pin" Type="int" Nullable="false" />
+    <Property Name="punch_date" Type="date" Nullable="false" />
+    <Property Name="punch_time" Type="int" />
+  </EntityType>
+  <EntityContainer Name="attendanceModelStoreContainer">
+    <EntitySet Name="personal_schedule" EntityType="Self.personal_schedule" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="signature" EntityType="Self.signature" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee" EntityType="Self.Employee" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Employee].[ID] AS [ID], 
+    [Employee].[PIN] AS [PIN], 
+    [Employee].[EmployeeName] AS [EmployeeName], 
+    [Employee].[Description] AS [Description]
+    FROM [dbo].[Employee] AS [Employee]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="schedule_info" EntityType="Self.schedule_info" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [schedule_info].[schedule_id] AS [schedule_id], 
+    [schedule_info].[Schedule_name] AS [Schedule_name], 
+    [schedule_info].[start_time] AS [start_time], 
+    [schedule_info].[end_time] AS [end_time], 
+    [schedule_info].[start_bf] AS [start_bf], 
+    [schedule_info].[start_af] AS [start_af], 
+    [schedule_info].[end_bf] AS [end_bf], 
+    [schedule_info].[end_af] AS [end_af]
+    FROM [dbo].[schedule_info] AS [schedule_info]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

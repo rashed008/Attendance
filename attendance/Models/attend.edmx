@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="attendanceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="emp">
+          <Key>
+            <PropertyRef Name="pin" />
+          </Key>
+          <Property Name="pin" Type="int" Nullable="false" />
+          <Property Name="EmployeeName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Description" Type="text" Nullable="false" />
+        </EntityType>
+        <EntityType Name="personal_schedule">
+          <Key>
+            <PropertyRef Name="PersinalScheduleID" />
+          </Key>
+          <Property Name="PersinalScheduleID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="pin" Type="int" Nullable="false" />
+          <Property Name="schedule_id" Type="int" Nullable="false" />
+          <Property Name="ScheduleStart" Type="datetime" Nullable="false" />
+          <Property Name="SheduleEnd" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="schedule_info">
+          <Key>
+            <PropertyRef Name="schedule_id" />
+          </Key>
+          <Property Name="schedule_id" Type="int" Nullable="false" />
+          <Property Name="Schedule_name" Type="char" MaxLength="20" />
+          <Property Name="start_time" Type="datetime" Nullable="false" />
+          <Property Name="end_time" Type="datetime" Nullable="false" />
+          <Property Name="start_bf" Type="float" Nullable="false" />
+          <Property Name="start_af" Type="float" />
+          <Property Name="end_bf" Type="float" />
+          <Property Name="end_af" Type="float" />
+        </EntityType>
+        <EntityType Name="signature">
+          <Key>
+            <PropertyRef Name="pin" />
+          </Key>
+          <Property Name="pin" Type="int" Nullable="false" />
+          <Property Name="punch_date" Type="date" Nullable="false" />
+          <Property Name="punch_time" Type="int" />
+        </EntityType>
+        <EntityContainer Name="attendanceModelStoreContainer">
+          <EntitySet Name="emp" EntityType="Self.emp" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+          <EntitySet Name="personal_schedule" EntityType="Self.personal_schedule" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+          <EntitySet Name="schedule_info" EntityType="Self.schedule_info" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+          <EntitySet Name="signature" EntityType="Self.signature" Schema="dbo" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="attendanceModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+        <EntityType Name="emp">
+          <Key>
+            <PropertyRef Name="pin" />
+          </Key>
+          <Property Name="pin" Type="Int32" Nullable="false" />
+          <Property Name="EmployeeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="personal_schedule">
+          <Key>
+            <PropertyRef Name="PersinalScheduleID" />
+          </Key>
+          <Property Name="PersinalScheduleID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Name="pin" Type="Int32" Nullable="false" />
+          <Property Name="schedule_id" Type="Int32" Nullable="false" />
+          <Property Name="ScheduleStart" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="SheduleEnd" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="schedule_info">
+          <Key>
+            <PropertyRef Name="schedule_id" />
+          </Key>
+          <Property Name="schedule_id" Type="Int32" Nullable="false" />
+          <Property Name="Schedule_name" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+          <Property Name="start_time" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="end_time" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="start_bf" Type="Double" Nullable="false" />
+          <Property Name="start_af" Type="Double" />
+          <Property Name="end_bf" Type="Double" />
+          <Property Name="end_af" Type="Double" />
+        </EntityType>
+        <EntityType Name="signature">
+          <Key>
+            <PropertyRef Name="pin" />
+          </Key>
+          <Property Name="pin" Type="Int32" Nullable="false" />
+          <Property Name="punch_date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="punch_time" Type="Int32" />
+        </EntityType>
+        <EntityContainer Name="attendanceEntities4" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+          <EntitySet Name="emps" EntityType="Self.emp" />
+          <EntitySet Name="personal_schedule" EntityType="Self.personal_schedule" />
+          <EntitySet Name="schedule_info" EntityType="Self.schedule_info" />
+          <EntitySet Name="signatures" EntityType="Self.signature" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="attendanceModelStoreContainer" CdmEntityContainer="attendanceEntities4">
+          <EntitySetMapping Name="emps">
+            <EntityTypeMapping TypeName="attendanceModel.emp">
+              <MappingFragment StoreEntitySet="emp">
+                <ScalarProperty Name="pin" ColumnName="pin" />
+                <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="personal_schedule">
+            <EntityTypeMapping TypeName="attendanceModel.personal_schedule">
+              <MappingFragment StoreEntitySet="personal_schedule">
+                <ScalarProperty Name="PersinalScheduleID" ColumnName="PersinalScheduleID" />
+                <ScalarProperty Name="pin" ColumnName="pin" />
+                <ScalarProperty Name="schedule_id" ColumnName="schedule_id" />
+                <ScalarProperty Name="ScheduleStart" ColumnName="ScheduleStart" />
+                <ScalarProperty Name="SheduleEnd" ColumnName="SheduleEnd" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="schedule_info">
+            <EntityTypeMapping TypeName="attendanceModel.schedule_info">
+              <MappingFragment StoreEntitySet="schedule_info">
+                <ScalarProperty Name="schedule_id" ColumnName="schedule_id" />
+                <ScalarProperty Name="Schedule_name" ColumnName="Schedule_name" />
+                <ScalarProperty Name="start_time" ColumnName="start_time" />
+                <ScalarProperty Name="end_time" ColumnName="end_time" />
+                <ScalarProperty Name="start_bf" ColumnName="start_bf" />
+                <ScalarProperty Name="start_af" ColumnName="start_af" />
+                <ScalarProperty Name="end_bf" ColumnName="end_bf" />
+                <ScalarProperty Name="end_af" ColumnName="end_af" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="signatures">
+            <EntityTypeMapping TypeName="attendanceModel.signature">
+              <MappingFragment StoreEntitySet="signature">
+                <ScalarProperty Name="pin" ColumnName="pin" />
+                <ScalarProperty Name="punch_date" ColumnName="punch_date" />
+                <ScalarProperty Name="punch_time" ColumnName="punch_time" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer>
+    <edmx:Connection>
+      <edmx:DesignerInfoPropertySet>
+        <edmx:DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </edmx:DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <edmx:DesignerInfoPropertySet>
+        <edmx:DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <edmx:DesignerProperty Name="EnablePluralization" Value="true" />
+        <edmx:DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <edmx:DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <edmx:DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </edmx:DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams />
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,38 @@
+﻿@model attendance.Models.signature
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>signature</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.punch_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.punch_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.punch_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.punch_time)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-primary">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.pin }, new { style = "color:white" }) 
+        </button>
+    <button class="btn btn-primary">
+        @Html.ActionLink("Back to List", "Index",null, new { style = "color:white" })
+        </button>
+</p>
